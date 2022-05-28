@@ -20,7 +20,7 @@
 3. S3 HTTPS with index.html: https://static-blog-df-001.s3.amazonaws.com/index.html
 
 
-<p>The other 4 screenshots show the S3 permissions and file structure along with a view of the cloudfront distribution that was created.</p>
+<p>The other 5 screenshots show the S3 permissions and file structure along with a view of the cloudfront distribution that was created.</p>
 
 <br>
 
